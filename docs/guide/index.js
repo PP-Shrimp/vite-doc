@@ -2,6 +2,9 @@ const guideSide = function () {
     return [{
             text: 'Introduction',
             children: [{
+                    text: 'What is VitePress?',
+                    link: '/guide/'
+                }, {
                     text: 'Getting Started',
                     link: '/guide/getting-started'
                 },
