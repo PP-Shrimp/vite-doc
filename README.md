@@ -1,6 +1,6 @@
 # vitepress 踩坑
 
-内容是抄的
+内容是抄的,随缘翻译
 
 主要的坑在 .vitepress/config.js 中
 
