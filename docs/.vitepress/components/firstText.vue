@@ -12,8 +12,6 @@
 
     export default defineComponent({
         setup() {
-            console.log(123123123);
-            
             const form = reactive({
                 username: 'test',
                 password: 'test',
