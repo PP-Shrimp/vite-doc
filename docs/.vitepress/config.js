@@ -3,7 +3,7 @@ const configSide = require('../config/index')
 const testSide = require('../vuecomtest/index')
 
 module.exports = {
-    base: '/vite-doc/dist',
+    base: './dist',
     lang: 'en-US',
     title: 'VitePress',
     description: 'Vite & Vue powered static site generator.',
