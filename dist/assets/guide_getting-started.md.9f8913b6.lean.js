@@ -1,1 +1,0 @@
-import{o as s,c as e,a as t}from"./app.854e7494.js";const a='{"title":"Getting Started","description":"","frontmatter":{},"relativePath":"guide/getting-started.md","lastUpdated":1624440457688}',n={},o=t('',5);n.render=function(t,a,n,p,r,i){return s(),e("div",null,[o])};export default n;export{a as __pageData};
