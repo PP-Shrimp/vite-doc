@@ -25,3 +25,5 @@
 
 4. config.js 中的所有参数 [https://github.com/vuejs/vitepress/blob/master/src/node/config.ts#L15](https://github.com/vuejs/vitepress/blob/master/src/node/config.ts#L15)<br />
   并没有 dest 这样的参数控制打包输入目录
+
+5. github 的站点 实际上是 https://pp-shrimp.github.io/vite-doc/dist/
