@@ -1,0 +1,1 @@
+import{o as n,c as a,a as s}from"./app.411d78b7.js";const o='{"title":"Theme Config: Carbon Ads","description":"","frontmatter":{},"relativePath":"config/carbon-ads.md","lastUpdated":1624440457685}',t={},e=s('',3);t.render=function(s,o,t,p,r,c){return n(),a("div",null,[e])};export default t;export{o as __pageData};
