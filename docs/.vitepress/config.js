@@ -6,7 +6,6 @@ module.exports = {
     lang: 'en-US',
     title: 'VitePress',
     description: 'Vite & Vue powered static site generator.',
-
     themeConfig: {
         // 可是为什么我必须写了 repo, nav 才会生效
         repo: 'PP-Shrimp/vite-doc.git', // GitHub. 同时也可以是一个完整的 GitLab URL
