@@ -1,5 +1,6 @@
 const guideSide = require('../guide/index')
 const configSide = require('../config/index')
+const testSide = require('../vuecomtest/index')
 
 module.exports = {
     lang: 'en-US',
@@ -28,13 +29,18 @@ module.exports = {
                 text: 'Config Reference',
                 link: '/config/basics',
                 activeMatch: '^/config/'
+            },{
+                text: 'vue-component',
+                link: '/vuecomtest/test',
+                activeMatch: '^/vuecomtest/'
             }
         ],
 
         sidebar: {
             '/guide/': guideSide(),
             '/config/': configSide(),
-            '/': guideSide()
+            '/vuecomtest/': testSide(),
+            '/': guideSide(),
         }
     }
 }
